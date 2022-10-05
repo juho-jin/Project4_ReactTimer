@@ -1,9 +1,10 @@
-# Getting Started with Create React App
+# React useded Timer web page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+리액트를 활용하여 제작한 연습용 웹페이지 입니다.
+- URL : https://juho-jin.github.io/Project4_ReactTimer/
+## 제작하며 배운 점
+1. 리액트의 기본개념 - root 태그 아래 개인적으로 태그를 만들어서 동적으로 붙이는 개념
+2. 태그는 함수를 기본틀로 제작되며 파일 단위로 작성하는게 효율적
 In the project directory, you can run:
 
 ### `npm start`
