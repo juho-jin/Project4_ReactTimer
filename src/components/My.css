@@ -1,0 +1,18 @@
+.Anymation {
+    background-image: url(../image/lovelive.jpg);
+    background-size: cover;
+    min-height: 30vh;
+}
+
+h2 {
+    margin: 0px;
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.Time {
+    margin: 5px;
+    color: rgb(13, 65, 235);
+}
